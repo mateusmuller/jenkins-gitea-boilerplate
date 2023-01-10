@@ -69,4 +69,3 @@ Let's say your pipeline is under `https://jenkins.yourdomain.com/job/some-pipeli
 In order to get the config.xml, just access `https://jenkins.yourdomain.com/job/some-pipeline/config.xml`.
 
 Don't bother if you see the message `XML Parsing Error: XML declaration not well-formed`. Right click on the browser -> View Page Source.
->>>>>>> master
